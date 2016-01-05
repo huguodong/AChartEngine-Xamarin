@@ -1,0 +1,5 @@
+org.achartengine.chart.BarChart$Type:Org.Achartengine.Chart:BarChart.Type
+org.achartengine.chart.PointStyle:Org.Achartengine.Chart:PointStyle
+org.achartengine.renderer.DialRenderer$Type:Org.Achartengine.Renderer:DialRenderer.Type
+org.achartengine.renderer.XYMultipleSeriesRenderer$Orientation:Org.Achartengine.Renderer:XYMultipleSeriesRenderer.Orientation
+org.achartengine.renderer.XYSeriesRenderer$FillOutsideLine$Type:Org.Achartengine.Renderer:XYSeriesRenderer.FillOutsideLine.Type

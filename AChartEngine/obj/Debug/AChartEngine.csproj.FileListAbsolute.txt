@@ -1,0 +1,5 @@
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\AChartEngine\bin\Debug\AChartEngine.dll
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\AChartEngine\bin\Debug\AChartEngine.pdb
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\AChartEngine\obj\Debug\AChartEngine.csprojResolveAssemblyReference.cache
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\AChartEngine\obj\Debug\AChartEngine.dll
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\AChartEngine\obj\Debug\AChartEngine.pdb

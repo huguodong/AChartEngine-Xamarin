@@ -1,0 +1,17 @@
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\bin\Debug\ChartTest.dll
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\bin\Debug\ChartTest.pdb
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\bin\Debug\ChartTest.dll.mdb
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\bin\Debug\ChartTest.ChartTest.apk
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\bin\Debug\ChartTest.ChartTest-Signed.apk
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\bin\Debug\AChartEngine.dll
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\bin\Debug\AChartEngine.pdb
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\bin\Debug\AChartEngine.dll.mdb
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\ChartTest.csprojResolveAssemblyReference.cache
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\ChartTest.dll
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\ChartTest.pdb
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\android\bin\ChartTest.ChartTest.apk
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\res\layout\xy_chart.xml
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\res\values\strings.xml
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\res\drawable\icon.png
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\R.cs.flag
+E:\xamarin\AChartEngine-For-Xamarin-Android-master\ChartTest\obj\Debug\uploadflags.txt
